@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119c111d77f0bb647a3272254a33ff2b, type: 3}
+  m_Name: "Batakl\u0131k"
+  m_EditorClassIdentifier: Assembly-CSharp::BiomeCard
+  cardName: "Batakl\u0131k"
+  cardArt: {fileID: 21300000, guid: 937cf35544d57eb4ca89760b2cd882b8, type: 3}
+  description: "Batakl\u0131k b\xF6lgesi. +2 Sald\u0131r\u0131, +0 Savunma"
+  cardType: 0
+  biomeType: 3
+  modelPrefab: {fileID: 6588295094258509443, guid: 19ca0fc75973c9641bb007c1138fc0ae, type: 3}
+  modelScale: {x: 160.8, y: 124.2, z: 113.61}
+  modelRotation: {x: -90, y: 0, z: 0}
+  modelOffset: {x: 0, y: 0, z: 0}
+  attackBonus: 2
+  defenseBonus: 0
+  biomeColor: {r: 0.3, g: 0.4, b: 0.3, a: 1}

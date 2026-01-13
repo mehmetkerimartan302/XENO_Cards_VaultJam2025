@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05e1d208c3cba274f94a317a9eaa47d1, type: 3}
+  m_Name: "Ate\u015F Topu"
+  m_EditorClassIdentifier: Assembly-CSharp::SpellCard
+  cardName: "Ate\u015F Topu"
+  cardArt: {fileID: 21300000, guid: a6f4fa304425672428b391cf48ddd6be, type: 3}
+  description: "Hedef d\xFC\u015Fmana 5 hasar verir."
+  cardType: 2
+  spellType: 0
+  power: 5
+  targetEnemy: 1
